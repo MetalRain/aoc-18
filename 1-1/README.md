@@ -6,7 +6,5 @@ Implemented with Rust
 
 ```sh
 cargo build
-```
-```sh
-./target/debug/aoc-18-rs
+./target/debug/aoc-18-1-1
 ```
